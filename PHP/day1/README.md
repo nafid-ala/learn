@@ -1,4 +1,4 @@
-hal yang saya pelajari hari ini diatntaranya 
+hal yang saya pelajari hari ini diantaranya 
 membuat array 
 inisiasi nama array
 deklarasi array dengan tanda []
